@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+I'm Aigbe Robert Daniel, Full-Stack web developer, Programmer, Laravel, C#, Dart & Flutter Artisan, and Typescript & React Js Enthusiast. 
+
+- 📫 How to reach me: ...
+checkout my website at: [danielrobertaigbe.com](https://danielrobertaigbe.com)
 <!--
-**DanielRobert1/DanielRobert1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**seshac/seshac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
