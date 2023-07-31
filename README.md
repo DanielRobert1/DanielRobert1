@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Aigbe Robert Daniel, Full-Stack web developer, Programmer, Laravel, C#, Dart & Flutter Artisan, and Typescript & React Js Enthusiast. 
+I'm Aigbe Robert Daniel, Software Engineer, Programmer, Laravel, C#, Dart & Flutter Artisan, and Typescript & React Js Enthusiast. 
 
 - 📫 How to reach me: ...
 checkout my website at: [danielrobertaigbe.com](https://danielrobertaigbe.com)
